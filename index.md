@@ -1,1 +1,2 @@
-#This site is about Pat Bateman
+# A website anout Pat Bateman
+
